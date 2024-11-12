@@ -1,0 +1,6 @@
+@YouBikeNow_HostAddress = http://localhost:5282
+
+GET {{YouBikeNow_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
